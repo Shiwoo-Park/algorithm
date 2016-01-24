@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="593e9b2d-71e0-4a3b-9d6b-5e5cbc690ab8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/byekorea/boomerang-constellations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/byekorea/social-network-traversal.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/ojleetcode/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/binary_search_tree_iterator.py" afterPath="$PROJECT_DIR$/ojleetcode/binary_search_tree_iterator.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/binary_tree_level_order_traversal_ii.py" afterPath="$PROJECT_DIR$/ojleetcode/binary_tree_level_order_traversal_ii.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bitwise_and_of_numbers_range.py" afterPath="$PROJECT_DIR$/ojleetcode/bitwise_and_of_numbers_range.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/compare_version_numbers.py" afterPath="$PROJECT_DIR$/ojleetcode/compare_version_numbers.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/contains_duplicate.py" afterPath="$PROJECT_DIR$/ojleetcode/contains_duplicate.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/contains_duplicate_ii.py" afterPath="$PROJECT_DIR$/ojleetcode/contains_duplicate_ii.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/count_and_say.py" afterPath="$PROJECT_DIR$/ojleetcode/count_and_say.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/evaluate_reverse_polish_notation.py" afterPath="$PROJECT_DIR$/ojleetcode/evaluate_reverse_polish_notation.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/excel_sheet_column_number.py" afterPath="$PROJECT_DIR$/ojleetcode/excel_sheet_column_number.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/excel_sheet_column_title.py" afterPath="$PROJECT_DIR$/ojleetcode/excel_sheet_column_title.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/factorial_trailing_zeroes.py" afterPath="$PROJECT_DIR$/ojleetcode/factorial_trailing_zeroes.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/integer_to_roman.py" afterPath="$PROJECT_DIR$/ojleetcode/integer_to_roman.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/intersection_of_two_linked_lists.py" afterPath="$PROJECT_DIR$/ojleetcode/intersection_of_two_linked_lists.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/invert_binary_tree.py" afterPath="$PROJECT_DIR$/ojleetcode/invert_binary_tree.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/length_of_last_word.py" afterPath="$PROJECT_DIR$/ojleetcode/length_of_last_word.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/longest_common_prefix.py" afterPath="$PROJECT_DIR$/ojleetcode/longest_common_prefix.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/longest_valid_parentheses.py" afterPath="$PROJECT_DIR$/ojleetcode/longest_valid_parentheses.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lru_cache.py" afterPath="$PROJECT_DIR$/ojleetcode/lru_cache.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/majority_element.py" afterPath="$PROJECT_DIR$/ojleetcode/majority_element.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/merge_two_sorted_lists.py" afterPath="$PROJECT_DIR$/ojleetcode/merge_two_sorted_lists.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/min_stack.py" afterPath="$PROJECT_DIR$/ojleetcode/min_stack.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/minimum_depth_of_binary_tree.py" afterPath="$PROJECT_DIR$/ojleetcode/minimum_depth_of_binary_tree.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/minimum_size_subarray_sum.py" afterPath="$PROJECT_DIR$/ojleetcode/minimum_size_subarray_sum.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/n_queens.py" afterPath="$PROJECT_DIR$/ojleetcode/n_queens.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/n_queens_ii.py" afterPath="$PROJECT_DIR$/ojleetcode/n_queens_ii.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/palindrome_number.py" afterPath="$PROJECT_DIR$/ojleetcode/palindrome_number.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/palindrome_partitioning.py" afterPath="$PROJECT_DIR$/ojleetcode/palindrome_partitioning.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascals_triangle_ii.py" afterPath="$PROJECT_DIR$/ojleetcode/pascals_triangle_ii.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/path_sum.py" afterPath="$PROJECT_DIR$/ojleetcode/path_sum.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/path_sum_ii.py" afterPath="$PROJECT_DIR$/ojleetcode/path_sum_ii.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/rectangle_area.py" afterPath="$PROJECT_DIR$/ojleetcode/rectangle_area.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/remove_duplicates_from_sorted_array.py" afterPath="$PROJECT_DIR$/ojleetcode/remove_duplicates_from_sorted_array.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/remove_duplicates_from_sorted_list_ii.py" afterPath="$PROJECT_DIR$/ojleetcode/remove_duplicates_from_sorted_list_ii.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/remove_element.py" afterPath="$PROJECT_DIR$/ojleetcode/remove_element.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/remove_nth_node_from_end_of_list.py" afterPath="$PROJECT_DIR$/ojleetcode/remove_nth_node_from_end_of_list.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/reverse_bits.py" afterPath="$PROJECT_DIR$/ojleetcode/reverse_bits.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/reverse_integer.py" afterPath="$PROJECT_DIR$/ojleetcode/reverse_integer.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/reverse_linked_list.py" afterPath="$PROJECT_DIR$/ojleetcode/reverse_linked_list.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/rotate_array.py" afterPath="$PROJECT_DIR$/ojleetcode/rotate_array.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/search_for_a_range.py" afterPath="$PROJECT_DIR$/ojleetcode/search_for_a_range.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/string_to_integer_atoi.py" afterPath="$PROJECT_DIR$/ojleetcode/string_to_integer_atoi.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/summary_ranges.py" afterPath="$PROJECT_DIR$/ojleetcode/summary_ranges.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/triangle.py" afterPath="$PROJECT_DIR$/ojleetcode/triangle.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/two_sum.py" afterPath="$PROJECT_DIR$/ojleetcode/two_sum.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/valid_palindrome.java" afterPath="$PROJECT_DIR$/ojleetcode/valid_palindrome.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/valid_parentheses.py" afterPath="$PROJECT_DIR$/ojleetcode/valid_parentheses.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zigzag_conversion.py" afterPath="$PROJECT_DIR$/ojleetcode/zigzag_conversion.py" />
+    </list>
+    <ignored path="study-algorithm.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="study-algorithm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="binary_tree_level_order_traversal_ii.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ojleetcode/binary_tree_level_order_traversal_ii.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boomerang-constellations.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/byekorea/boomerang-constellations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="social-network-traversal.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/byekorea/social-network-traversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.1645768">
+              <caret line="5" column="28" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/byekorea/boomerang-constellations.py" />
+        <option value="$PROJECT_DIR$/byekorea/social-network-traversal.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ojleetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="byekorea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="C:/Python27/python.exe" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev-git\study-algorithm\ojleetcode" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="study-algorithm" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="study-algorithm" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="study-algorithm" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="study-algorithm" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="study-algorithm" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="study-algorithm" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="593e9b2d-71e0-4a3b-9d6b-5e5cbc690ab8" name="Default" comment="" />
+      <created>1453630031101</created>
+      <option name="number" value="Default" />
+      <updated>1453630031101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ojleetcode/binary_tree_level_order_traversal_ii.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/byekorea/boomerang-constellations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/byekorea/social-network-traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1645768">
+          <caret line="5" column="28" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
