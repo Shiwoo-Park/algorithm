@@ -14,6 +14,8 @@ def getDirectFriendsForUser(userID):
 def getAttendedCoursesForUser(userID):
     return []
 
+
+# noinspection PyPep8Naming
 def getUserCourses(userID):
 
     # collect direct friends
